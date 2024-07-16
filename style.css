@@ -1,0 +1,7 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.modal-dialog {
+    max-width: 600px;
+    margin: 1.75rem auto;
+}
